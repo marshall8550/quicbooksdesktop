@@ -33,7 +33,7 @@ If you're new or looking to **reinstall QuickBooks Desktop**, go to the official
 
 * If you want to **install QuickBooks already purchased**, log in using your existing credentials.
 * For users who want to **install QuickBooks already existing account**, select your purchased version from your account history.
-* If you **download QuickBooks already bought**, ensure the version and year match your license.
+* [If you **download QuickBooks already bought**, ensure the version and year match your license.](https://quicbooksdesktop.readthedocs.io/)
 
 
 
